@@ -1,0 +1,12 @@
+body{
+    background-color: #373e57;
+}
+
+.centered {
+    min-width: 320px;
+        width: 920px;
+}
+
+.igreja{
+    color: rgb(252, 250, 250);
+}
